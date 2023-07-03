@@ -1,0 +1,38 @@
+{
+	"baseInfo": {
+		"contractId": "14728d14-0e09-6156-9b2f-032c9c4bf572",
+		"taskId": "821c1b48-8cd3-c473-5f99-dccd29a0d4ac",
+		"nodeId": "0xb834222e7",
+		"operatorType": "localCustomizedSql",
+		"operatorId": "8949b0c1-e9b8-4a95-b8cd-64a0e20da63e",
+		"prev": [
+			"342e1abf-07cf-4a4d-bb8a-13a7fd4772d5"
+		],
+		"next": [
+			"38d60a8e-4314-4173-a1ab-936b48816140"
+		],
+		"local": true,
+		"beneficiaries": [
+			"0xb834222e7"
+		],
+		"parties": [
+			"0xb834222e7"
+		]
+	},
+	"datasetInfo": {
+		"features": [
+			{
+				"nodeId": "0xb834222e7",
+				"operatorId": "BB15A6463D364FC89E72FB94BD63A9C6",
+				"dataSourceId": "e3650ebb-bee2-5d18-c98b-9c7a0c395120",
+				"input": "demo.csv",
+				"output": "demo.csv",
+				"featureName": []
+			}
+		],
+		"label": null
+	},
+	"params": {
+		"sql": "SELECT * FROM table_name;"
+	}
+}

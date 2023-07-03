@@ -1,0 +1,19 @@
+id,area,rooms,age,price
+3,150.0,4,8,400000.0
+5,200.0,5,4,500000.0
+10,170.0,5,2,450000.0
+id,area,rooms,age,price
+1,100.0,2,5,200000.0
+8,110.0,2,10,250000.0
+Name,Age,Gender,City
+Alice,25,Female,New York
+Bob,30,Male,San Francisco
+Charlie,35,Male,Los Angeles
+David,40,Male,Chicago
+Eve,30,Female,Miami
+,45,Male,Houston
+Grace,50,,Seattle
+name,age,gender
+Bob,30,M
+Charlie,35,M
+David,40,M
